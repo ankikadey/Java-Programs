@@ -2,7 +2,7 @@ package ControlStatements;
 public class IfElseIfLadder {
     public static void main(String[] args) {
         //a code to demonstrate grades using if-else-if ladder
-        //grades are fail, D, C, B, A, A+
+        //grades are : fail, D, C, B, A, A+
         int m = 100;
 
         //the if-else-if ladder
