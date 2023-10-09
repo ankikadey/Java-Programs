@@ -1,4 +1,3 @@
-import java.util.*;
 public class FindMissingValue {
 
     public static int findMissingValue(int[] a, int N){
