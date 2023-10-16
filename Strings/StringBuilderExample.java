@@ -1,4 +1,3 @@
-import java.util.*;
 public class StringBuilderExample {
     public static void main(String[] args) {
         //use of append(string s)
