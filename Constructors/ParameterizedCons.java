@@ -5,11 +5,11 @@ class MyClass {
     String lname;
     int roll;
     int standard;
-    MyClass(String f, String l, int r, int s){
-        fname = f;
-        lname = l;
-        roll = r;
-        standard = s;
+    MyClass(String fname, String lname, int roll, int standard){
+        this.fname = fname;
+        this.lname = lname;
+        this.roll = roll;
+        this.standard = standard;
     }
 
     void display(){
