@@ -21,6 +21,8 @@ public class ArraytoString {
             str[i] = sc.next();
         }
 
+        sc.close();
+
         //generate output
         System.out.println(Arrays.toString(str)); //it is taking a whole array as input so no need of for loop.
     }
