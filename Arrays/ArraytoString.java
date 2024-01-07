@@ -6,14 +6,14 @@ public class ArraytoString {
         Scanner sc = new Scanner(System.in);
 
         // //take inputs
-        // for(int i =0; i < arr.length; i++){
-        //     arr[i] = sc.nextInt();
-        // }
+        for(int i =0; i < arr.length; i++){
+            arr[i] = sc.nextInt();
+        }
 
-        // //generate output
-        // for (int i = 0; i < arr.length; i++) {
-        //     System.out.print(arr[i] + " ");
-        // }
+        //generate output
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
 
         //array of objects
         String[] str = new String[3];

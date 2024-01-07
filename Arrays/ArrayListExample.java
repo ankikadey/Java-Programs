@@ -14,6 +14,7 @@ public class ArrayListExample {
             System.out.print(list.get(i) + " ");
         }
         System.out.println();
+        sc.close();
 
         list.set(2, 77);
 
