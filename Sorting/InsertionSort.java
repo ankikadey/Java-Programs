@@ -20,7 +20,7 @@ public class InsertionSort {
         arr[second] = temp;
     }
     public static void main(String[] args) {
-        int[] arr = {0, -1, -32, 5, 65};
+        int[] arr = {0, -1, -32, 5, 6};
         insertion(arr);
         System.out.println(Arrays.toString(arr));
     }
