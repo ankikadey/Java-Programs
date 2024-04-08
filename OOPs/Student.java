@@ -5,6 +5,10 @@ class Student{
 
     public static void main(String[] args) {
         Student s1 = new Student();
+        s1.name = "Anant";
+        s1.roll = 6;
+        s1.standard = 12;
+        System.out.println(s1.name + " " + s1.roll);
     }
 }
 
