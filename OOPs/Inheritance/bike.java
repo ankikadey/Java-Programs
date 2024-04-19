@@ -64,7 +64,7 @@ class MountainBike extends Bicycle {
 }
 
 // driver class
-public class Test {
+class Test {
 	public static void main(String args[])
 	{
 
