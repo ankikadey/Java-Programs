@@ -1,3 +1,5 @@
+package Inheritance;
+
 // base class
 class Bicycle {
     // the Bicycle class has two fields

@@ -1,3 +1,5 @@
+package Abstraction;
+
 abstract class Bank{
     abstract int getROI();
 } //Abstract class
@@ -22,6 +24,8 @@ class TestAbstraction{
     public static void main(String[] args) {
         Bank bank;
         bank = new SBI();
+        System.out.println(bank.getROI());
+        bank = new Axis();
         System.out.println(bank.getROI());
     }
 }

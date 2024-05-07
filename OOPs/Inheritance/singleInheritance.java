@@ -1,3 +1,5 @@
+package Inheritance;
+
 class Employee { //Super Class
     double salary = 50000;
 }
