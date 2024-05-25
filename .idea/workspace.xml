@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f05af9-498b-4dde-8012-4588d0f93f35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice Problems/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Problems/BinaryToOctal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Problems/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Problems/LeapYear.java" afterDir="false" />
-    </list>
+    <list default="true" id="94f05af9-498b-4dde-8012-4588d0f93f35" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,37 +10,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ankikadey"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ankikadey&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ankikadey/Java-Programs.git",
-    "accountId": "09a845b0-5bdc-4c17-9593-32a4d6c47450"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ankikadey/Java-Programs.git&quot;,
+    &quot;accountId&quot;: &quot;09a845b0-5bdc-4c17-9593-32a4d6c47450&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2gwTBapUmptNddUzlSsCVN60bVZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/OneDrive/Coding/Github/Java-Programs/Practice Problems",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Coding/Github/Java-Programs/Practice Problems&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\OneDrive\Coding\Github\Java-Programs\Practice Problems" />
@@ -68,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716607509365</updated>
       <workItem from="1716607510710" duration="278000" />
+      <workItem from="1716608012997" duration="47000" />
     </task>
     <servers />
   </component>
