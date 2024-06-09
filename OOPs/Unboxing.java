@@ -1,6 +1,7 @@
 public class Unboxing {
+    @SuppressWarnings("removal")
     public static void main(String[] args) {
-        Integer i = new Integer("10"));
+        Integer i = new Integer("10");
         int j = i; //unboxing
         System.out.println("Value of i: " + i);
         System.out.println("Value of j: " + j);
