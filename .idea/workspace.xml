@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="94f05af9-498b-4dde-8012-4588d0f93f35" name="Changes" comment="add codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="94f05af9-498b-4dde-8012-4588d0f93f35" name="Changes" comment="" />
+>>>>>>> 8f14fc2315aee8f2ca007a4d585158434b95d2af
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +41,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -52,8 +57,19 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Coding/Github/Java-Programs/Practice Problems&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> 8f14fc2315aee8f2ca007a4d585158434b95d2af
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\OneDrive\Coding\Github\Java-Programs\Practice Problems" />
@@ -75,8 +91,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716607509365</updated>
+<<<<<<< HEAD
       <workItem from="1716607510710" duration="495000" />
       <workItem from="1717086384270" duration="139000" />
+=======
+      <workItem from="1716607510710" duration="278000" />
+      <workItem from="1716608012997" duration="47000" />
+>>>>>>> 8f14fc2315aee8f2ca007a4d585158434b95d2af
     </task>
     <task id="LOCAL-00001" summary="add codes">
       <option name="closed" value="true" />
