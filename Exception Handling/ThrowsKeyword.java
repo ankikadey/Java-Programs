@@ -1,7 +1,7 @@
 import java.io.IOException;
 
 class TestThrows{
-    public static void method() throws IOException{
+    public void method() throws IOException{
         throw new IOException("Device error is resolved");
     }
 }
